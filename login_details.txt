@@ -1,0 +1,6 @@
+
+login details
+name
+age
+email-id
+mobile-no
